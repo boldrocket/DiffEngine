@@ -31,7 +31,7 @@ ie - the seed statistics are kept up to date throughout the process so that a pa
 
 ===
 
-Requirements to run with minimal config required:
+## Requirements to run with minimal config:
 - ensure the loggers.py and regex_filters.py files are in the same location as the DiffEngine
 [or update the imports]
 
